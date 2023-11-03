@@ -1,0 +1,3 @@
+This is awesome concept of async await in JS and 
+Hello this is first text file. and 
+This is a second file
