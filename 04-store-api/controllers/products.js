@@ -28,4 +28,5 @@ const getAllProducts = async (req, res) => {
   res.status(200).json({ products, nbHits: products.length });
 };
 
+console.log("I am here outside the scope");
 module.exports = { getAllProducts, getAllProductsStatic };
